@@ -1,8 +1,20 @@
-### Console.log("Hello people") 🔭
+## 👋 `console.log("Hello, people!");`  
 
-My name is Raul, I am a fullstack developer located in Colombia. My programming languages are JS, CSS, HTML, NodeJS, SQL and MongoDB. I am interested in back-end development and cloud computing. 
+### 🚀 About Me  
+Hi, I'm **Raul**, a passionate **Full-Stack Developer** from **Colombia**!  
+I thrive on building robust and scalable applications, with a strong focus on **back-end development, AI, and cloud computing**.  
 
-You can reach me at my email ras.inte@hotmail.com and I will be more than glad to repply to any message😄. 
+### 💻 Tech Stack  
+🚀 **Languages**: JavaScript, Python, Java, SQL  
+🛠 **Technologies & Frameworks**: Node.js, Express, MongoDB, PostgreSQL, HTML, CSS  
+☁ **Cloud & DevOps**: Exploring cloud computing solutions  
+
+### 📫 Let's Connect!  
+📧 **Email**: [ras.inte@hotmail.com](mailto:ras.inte@hotmail.com) – I'm always happy to chat and collaborate! 😃  
+
+---
+
+🔗 *Check out my repositories and feel free to contribute or connect!* 🚀  
 <!--
 **rslugo9709/rslugo9709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
